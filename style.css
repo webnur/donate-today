@@ -102,7 +102,11 @@ h1{
     background-color: #FFF4D6;
 }
 
+.donation-stories {
+    margin-top: 100px;
+}
 .stories {
+    padding-top: 36px;
     display: flex;
     margin: auto;
     width: 90%;
@@ -119,6 +123,8 @@ h1{
 .story img {
     width: 100%;
 }
+
+
 .subscribe-area {
     margin-top: 100px;
     margin-bottom: 100px;
